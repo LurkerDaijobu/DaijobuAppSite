@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Daijobu Anime App
 
-You can use the [editor on GitHub](https://github.com/LurkerDaijobu/DaijobuAppSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ad Free. Forever. For IOS and Android.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Scroll Below for a guide to download the App.
 
-### Markdown
+### Guide.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
